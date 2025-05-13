@@ -100,7 +100,7 @@ body {
 .home-content p {
     font-size: 20px;
     opacity: 0;
-    animation: slideLeft is ease forwards;
+    animation: slideLeft 1s ease forwards;
     animation-delay: 1s;
 }
 
